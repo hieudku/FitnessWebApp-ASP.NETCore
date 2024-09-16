@@ -7,4 +7,8 @@
     <RootNamespace>FitnessWebApp_ASP.NETCore</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.8" />
+  </ItemGroup>
+
 </Project>
